@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/lillian0x1a/github-profile-trophy)
-<!--
-**lillian0x1a/lillian0x1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=lillian0x1a&theme=onedark)](https://github.com/ryoma/github-profile-trophy)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
